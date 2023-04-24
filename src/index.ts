@@ -1,3 +1,3 @@
-let hello: String = "Hello"
+let hello: String = "Worlds"
 
 console.log(hello)

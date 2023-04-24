@@ -4,5 +4,15 @@
     "ghcr.io/devcontainers-contrib/features/typescript:2": {
       "version": "latest"
     }
-  }
+},
+"customizations": {
+    "vscode": {
+        "extensions": [
+            "ritwickdey.LiveServer",
+            "dbaeumer.vscode-eslint",
+            "VisualStudioExptTeam.vscodeintellicode",
+            "GitHub.copilot"
+        ]
+    }
+}
 }
